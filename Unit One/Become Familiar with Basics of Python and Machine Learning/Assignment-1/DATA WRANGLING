@@ -1,7 +1,1 @@
 It is often said that a data scientist spends 80% of her time wrangling data and only 20% doing actual analysis. While the actual number may vary, the fact remains that data wrangling is a critical skill in data science, and often underestimated by novices. Real-world data is messy, with missing information, corrupted values and other issues. Fortunately, Python provides us with excellent tools and libraries to handle data issues.
-
-### LINEAR PREDICTIONS
-Linear methods are the simplest, yet often the fastest and most effective set of algorithms. They assume that the data can be represented by a (multidimensional) line. In the case of regression, the line represents the structure of the data. In the case of classification, the line represents the boundary between the different classes. In this section, we cover the basics of linear methods in general, and then show how to use them in Python.
-
-### NON-LINEAR PREDICTIONS
-While linear methods work well enough a lot of the time, real-world problems are sometimes much more complex. Fortunately, we have at our disposal other machine learning algorithms and techniques to deal with complex, non-linear data sets. In this section, we’ll cover two of these methods.
