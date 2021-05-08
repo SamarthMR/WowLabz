@@ -1,0 +1,5 @@
+### LINEAR PREDICTIONS
+Linear methods are the simplest, yet often the fastest and most effective set of algorithms. They assume that the data can be represented by a (multidimensional) line. In the case of regression, the line represents the structure of the data. In the case of classification, the line represents the boundary between the different classes. In this section, we cover the basics of linear methods in general, and then show how to use them in Python.
+
+### NON-LINEAR PREDICTIONS
+While linear methods work well enough a lot of the time, real-world problems are sometimes much more complex. Fortunately, we have at our disposal other machine learning algorithms and techniques to deal with complex, non-linear data sets. In this section, we’ll cover two of these methods.
